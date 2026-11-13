@@ -18,11 +18,11 @@ const Footer = ({ ref }) => {
           className={`link ${
             dayTheme ? "day-footer-link" : "night-footer-link"
           }`}
-          href="https://github.com/marshall-johnson/"
+          href="https://github.com/Joe-etzkorn/"
           target="_blank"
           rel="noreferrer"
         >
-          Marshall Johnson
+          joe-etzkorn
         </a>
         . All rights reserved.
       </div>
